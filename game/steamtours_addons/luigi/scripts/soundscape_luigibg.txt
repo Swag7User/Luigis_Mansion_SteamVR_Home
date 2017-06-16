@@ -1,0 +1,22 @@
+"soundscape_luigibg"
+{
+                "playlooping"
+                {
+                                "volume"        "0.2"
+                                "pitch"         "100"
+                                "wave"          "sounds/outside.vsnd"
+                }
+ 				"playrandom"
+                {
+                                "volume"        "0.1"
+                                "pitch"         "100"     
+                                "time"          "20, 40"
+                                "rndwave"
+                                {
+                                       "wave"       "sounds/wind.vsnd"                                                
+                                }
+                } 
+}
+
+ 
+

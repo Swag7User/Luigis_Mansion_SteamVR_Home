@@ -1,0 +1,5 @@
+soundscapes_manifest
+{
+	"file"		"scripts/soundscape_luigibg.txt"
+	"file"		"scripts/valve.txt"
+}
